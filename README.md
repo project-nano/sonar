@@ -1,2 +1,1 @@
-# sonar
-utility code for network discovery
+# Nano Sonar Source Code
